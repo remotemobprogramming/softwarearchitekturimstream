@@ -19,4 +19,3 @@
 1. Run `mob moo` on your console. It should moo.
 2. Run `./mvnw test` in the checked out git repository. The one and only test should be green.
 3. Import the project in your IDE and run the tests.
-4. OPTIONAL (only necessary for React development): inside the `react-app` folder run `yarn` to download the internet in your `node_modules` folder. Run the tests with `yarn test --watchAll=false`.
