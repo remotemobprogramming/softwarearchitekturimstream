@@ -5,14 +5,12 @@
 - 'mob' tool https://mob.sh
 - JDK 11 https://adoptopenjdk.net/
 - An IDE of your choice (IntelliJ IDEA is recommended)
-- OPTIONAL (only necessary for React development): Node.js 14
 
 ## Project
 
 - Java 11
 - JUnit 5
 - Maven 3
-- OPTIONAL (only necessary for React development): Node.js 14 in folder `react-app`
 
 ## Check that everything works on your machine:
 
